@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    
+    background-image: url('images/home.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+    .container {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    max-width: 600px;
+    margin: 50px auto;
+    color: white;
+    border-radius: 8px;
+    }
+    h1, p, li {
+    margin: 0;
+    padding: 10px 0;
+    }
